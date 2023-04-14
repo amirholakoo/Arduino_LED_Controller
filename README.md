@@ -1,6 +1,6 @@
 # Arduino LED Controller with Button Interface
 
-This project is a simple, yet cool Arduino LED Controller with a button interface. It has been developed by a passionate enthusiast, who is not a professional programmer, but managed to create this project with the help of an expert from OpenAI. In this project, you'll learn how to control an LED's brightness and ON/OFF state using a push-button. This is perfect for beginners who want to get started with Arduino and explore its capabilities.
+This project is a simple, yet cool Arduino LED Controller with a button interface. It has been developed by a passionate enthusiast, who is not a professional programmer, but managed to create this project with the help of an expert from OpenAI from A to Z. In this project, you'll learn how to control an LED's brightness and ON/OFF state using a push-button. This is perfect for beginners who want to get started with Arduino and explore its capabilities.
 
 ## Features
 
