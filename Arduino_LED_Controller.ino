@@ -1,4 +1,4 @@
-```cpp
+
 const int ledPin = 9;           // LED connected to digital pin 9
 const int buttonPin = 2;        // Button connected to digital pin 2
 int buttonState = 0;            // Variable to store button state
